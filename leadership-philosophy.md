@@ -14,17 +14,17 @@ They are not objective truths, nor are they rules to be followed, but my hope is
 
 *Work should be fun, at least some of the time. Work relationships are worth investing in, beyond the minimum required for business-as-usual.*
 
-### :office_worker: Time is our most valuable resource
+### :chart_with_upwards_trend: Time is our most valuable resource
 
 *Don't spend time on anything you don't understand the value of, and don’t ask others to do anything you wouldn’t be willing to do yourself. Think critically, plan ahead, consult a diverse audience, challenge the status quo, minimise waste, and strive for continuous improvement.*
 
-### :office_worker: Human error should never be a root cause
+### :chart_with_upwards_trend: Human error should never be a root cause
 
 *Nobody works in a vacuum. If a single mistake can cause a perceivable issue, it’s usually a sign that the process is insufficiently resilient.*
 
 *Making mistakes, then owning them as data to help improve in future, is a marker of success, not failure.*
 
-### :office_worker: Standards set you free
+### :chart_with_upwards_trend: Standards set you free
 
 *Autonomy without guardrails leads to teams being overwhelmed at the infinite available options available to them, and stressed about breaking things they are responsible for yet don’t have a good understanding of.*
 
