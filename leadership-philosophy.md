@@ -40,4 +40,4 @@ They are not objective truths, nor are they rules to be followed, but my hope is
 
 *In this remote-working, cross-timezone environment it can be hard to separate work and non-work, and sometimes that’s OK.*
 
-*I had the inspiration for many of these ideas while [at the top of a mountain](https://photos.app.goo.gl/wPtyNGzMgec61GmT9).*
+:mountain: *I had the inspiration for many of these ideas while [at the top of a mountain](https://photos.app.goo.gl/wPtyNGzMgec61GmT9).*
